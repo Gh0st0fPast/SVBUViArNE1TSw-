@@ -1,0 +1,489 @@
+#EXTM3U 
+
+#EXTINF:-1 catchup="default" group-title="Местные", Первый канал (+4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/p6I47zT9NSwNYzZ3ZuzRlA,1739048402/streaming/1kanalplus4/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 catchup="default" group-title="Местные", Россия 1 (+4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/7sn51f9RT5AIZDUOlEIv1g,1739048403/streaming/rossia1plus4/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="Местные",Матч! (+4)
+http://dmi3y-tv.ru/hls/zabava/region/BIYSK/CH_MATCHTV.m3u8
+#EXTINF:-1 catchup="default" group-title="Местные", НТВ (+4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/K9IEsgIz8R9qUZ7PKGrgqg,1739048403/streaming/ntvplus4/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 catchup="default" group-title="Местные", Пятый канал (+4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/SB579SSddy8cLAKNie4W8w,1739048404/streaming/5kanalplus4/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 catchup="default" group-title="Местные", Россия Культура (+4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/2AtTdW0xnof_AHGEqgddTA,1739048406/streaming/rossiakplus4/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="Местные",Россия 24 (+4)
+http://dmi3y-tv.ru/hls/zabava/region/BIYSK/CH_ROSSIA24.m3u8
+#EXTINF:-1 catchup="default" group-title="Местные", Карусель (+4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/kZ7wbiokDPCnsuyd0MUSrw,1739048406/streaming/karuselplus4/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 catchup="default" group-title="Местные", ОТР (+4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/J8PQIzOUAeu4N-jgm1XM0A,1739048405/streaming/otrplus4/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 catchup="default" group-title="Местные", ТВ Центр (+4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/09rwxi8JXyAIXFnScRP-mg,1739048405/streaming/tvcplus4/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 catchup="default" group-title="Местные", Рен ТВ (+4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/pk5FnWPTS5Y5jBbt6a-x6Q,1739048403/streaming/rentvplus4/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 catchup="default" group-title="Местные", Спас (+4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/HG_yoJxt4O9NRAod46VlNA,1739048406/streaming/spasplus4/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 catchup="default" group-title="Местные", СТС (+4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/55i2vNSCyHhwjwDtf7D_RQ,1739048404/streaming/stsplus4/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 catchup="default" group-title="Местные", Домашний (+4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/Ae0uiN6rVHPMmMuCNJll3g,1739048404/streaming/homeplus4/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 catchup="default" group-title="Местные", ТВ3 (+4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/HfIP9C2GSH97z6mJzupxTQ,1739048405/streaming/tv3plus4/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 catchup="default" group-title="Местные", Пятница (+4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/FUwoObS2v3bMd4Z271JrBg,1739048405/streaming/fridayplus4/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 catchup="default" group-title="Местные", Звезда (+4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/iDkcerEAAvBliJ8dAKt4lg,1739048407/streaming/zvezdaplus4/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 catchup="default" group-title="Местные", Мир (+4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/W9wFzeMDxpvtw-YYM2YzQw,1739048407/streaming/mirplus4/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 catchup="default" group-title="Местные", ТНТ (+4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/erws-VFWa6K9ChhQr5pkyA,1739048406/streaming/tntplus4/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 catchup="default" group-title="Местные", Муз ТВ (+4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/9uzb245o-jOcGqOVpM2M9w,1739048407/streaming/muztvplus4/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="536" tvg-shift=0  group-title="WEB камеры",8 Марта - Горно-Алтайская
+https://video.digibi.ru/translation?id=4539796&guid=58ca03c7bcbd06bcaa70&mode=hls
+#EXTINF:-1 tvg-name="" tvg-shift=0  group-title="WEB камеры",Автолидер на Каховской
+https://video.digibi.ru/translation?id=12647694&guid=71f3b5db4a97c7da644d&mode=hls
+#EXTINF:-1 tvg-name="528" tvg-shift=0  group-title="WEB камеры",Администрация города
+https://video.digibi.ru/translation?id=4143088&guid=e9f9e42f7f8b80d9d170&mode=hls
+#EXTINF:-1 tvg-name="278" tvg-shift=0  group-title="WEB камеры",АТС-4 (клумба)
+https://video.digibi.ru/translation?id=110612&guid=c3a9c630d8054de8f810&mode=hls
+#EXTINF:-1 tvg-name="470" tvg-shift=0  group-title="WEB камеры",АТС-4 (мост)
+https://video.digibi.ru/translation?id=2475032&guid=54c94c5da78793b39958&mode=hls
+#EXTINF:-1 tvg-name="303" tvg-shift=0  group-title="WEB камеры",АТС-4 ост.
+https://video.digibi.ru/translation?id=357416&guid=eaa67a0e03fdb0057696&mode=hls
+#EXTINF:-1 tvg-name="273" tvg-shift=0  group-title="WEB камеры",Баскетбольная (18 шк.)
+https://video.digibi.ru/translation?id=16855&guid=a821b71440124e5914d9&mode=hls
+#EXTINF:-1 tvg-name="310" tvg-shift=0  group-title="WEB камеры",Бизнес центр "Оскар"
+https://video.digibi.ru/translation?id=423923&guid=c9e8eb5ea7243d99ad17&mode=hls
+#EXTINF:-1 tvg-name="455" tvg-shift=0  group-title="WEB камеры",Бийский лицей
+https://video.digibi.ru/translation?id=2150817&guid=35f6003048f7d8c902df&mode=hls
+#EXTINF:-1 tvg-name="209" tvg-shift=0  group-title="WEB камеры",Благодать, склон Катунь
+https://video.digibi.ru/translation?id=187766&guid=c8ac630191fa68293ee4&mode=hls
+#EXTINF:-1 tvg-name="" tvg-shift=0  group-title="WEB камеры",Васильева 28
+https://video.digibi.ru/translation?id=12562385&guid=234d2606db107a84f737&mode=hls
+#EXTINF:-1 tvg-name="317" tvg-shift=0  group-title="WEB камеры",Васильева - 8 марта
+https://video.digibi.ru/translation?id=489676&guid=bbe69ba894578db7d79b&mode=hls
+#EXTINF:-1 tvg-name="315" tvg-shift=0  group-title="WEB камеры",Васильева - Ленинградская
+https://video.digibi.ru/translation?id=615945&guid=b6e2670b4d91a0c2d350&mode=hls
+#EXTINF:-1 tvg-name="386" tvg-shift=0  group-title="WEB камеры",Васильева - Липового
+https://video.digibi.ru/translation?id=1248545&guid=49760a224a3f31e71ef8&mode=hls
+#EXTINF:-1 tvg-name="276" tvg-shift=0  group-title="WEB камеры",Васильева - Мартьянова №1
+https://video.digibi.ru/translation?id=27505&guid=a70048d0ccd1bd594282&mode=hls
+#EXTINF:-1 tvg-name="318" tvg-shift=0  group-title="WEB камеры",Васильева - Мартьянова №2
+https://video.digibi.ru/translation?id=594731&guid=a379659e997bac4f5d1a&mode=hls
+#EXTINF:-1 tvg-name="550" tvg-shift=0  group-title="WEB камеры",Васильева - Омский
+https://video.digibi.ru/translation?id=5335365&guid=bfe8eb5bfecff1ecb5bf&mode=hls
+#EXTINF:-1 tvg-name="372" tvg-shift=0  group-title="WEB камеры",Васильева - Социалистическая
+https://video.digibi.ru/translation?id=1065769&guid=7f4c0b3389038f95de33&mode=hls
+#EXTINF:-1 tvg-name="290" tvg-shift=0  group-title="WEB камеры",Васильева - Трофимова
+https://video.digibi.ru/translation?id=230453&guid=178c952b7d1869584d04&mode=hls
+#EXTINF:-1 tvg-name="437" tvg-shift=0  group-title="WEB камеры",Вечный огонь 1
+https://video.digibi.ru/translation?id=5790194&guid=2440c91d18a4029af016&mode=hls
+#EXTINF:-1 tvg-name="438" tvg-shift=0  group-title="WEB камеры",Вечный огонь 2
+https://video.digibi.ru/translation?id=5790179&guid=18d83d7db3b6fc2b505c&mode=hls
+#EXTINF:-1 tvg-name="417" tvg-shift=0  group-title="WEB камеры",В.-Интернационалистов - 8 Марта
+https://video.digibi.ru/translation?id=1566941&guid=f8e453c176b95a2c6f03&mode=hls
+#EXTINF:-1 tvg-name="422" tvg-shift=0  group-title="WEB камеры",В.-Интернационалистов - Дружный
+https://video.digibi.ru/translation?id=1598665&guid=8b30e05bc7f76852cab6&mode=hls
+#EXTINF:-1 tvg-name="371" tvg-shift=0  group-title="WEB камеры",В.-Интернационалистов - Ленинградская
+https://video.digibi.ru/translation?id=1037110&guid=810b3f85d265514254cb&mode=hls
+#EXTINF:-1 tvg-name="473" tvg-shift=0  group-title="WEB камеры",В.-Интернационалистов - Липового
+https://video.digibi.ru/translation?id=2502369&guid=b3bcfb85eda19ba4785e&mode=hls
+#EXTINF:-1 tvg-name="419" tvg-shift=0  group-title="WEB камеры",В.-Интернационалистов - Мартьянова
+https://video.digibi.ru/translation?id=1567011&guid=8b530f3e834a51efb540&mode=hls
+#EXTINF:-1 tvg-name="475" tvg-shift=0  group-title="WEB камеры",В.-Интернационалистов - Омский
+https://video.digibi.ru/translation?id=2562522&guid=9dd7e538853f95992dd8&mode=hls
+#EXTINF:-1 tvg-name="291" tvg-shift=0  group-title="WEB камеры",Вокзал ост.
+https://video.digibi.ru/translation?id=185678&guid=b896f95ec885d7ba112c&mode=hls
+#EXTINF:-1 tvg-name="464" tvg-shift=0  group-title="WEB камеры",Волочаевская
+https://video.digibi.ru/translation?id=2328141&guid=7a799e612752ae1b8296&mode=hls
+#EXTINF:-1 tvg-name="259" tvg-shift=0  group-title="WEB камеры",Воскресенье ТРК
+https://video.digibi.ru/translation?id=3716&guid=06bf19c7e1a9f32cfdf8&mode=hls
+#EXTINF:-1 tvg-name="324" tvg-shift=0  group-title="WEB камеры",Выставочный ост.
+https://video.digibi.ru/translation?id=488180&guid=766d7dcab64aa5a59f4b&mode=hls
+#EXTINF:-1 tvg-name="456" tvg-shift=0  group-title="WEB камеры",Гастелло - Промышленная
+https://video.digibi.ru/translation?id=2150847&guid=58c1049ce5005c018ce8&mode=hls
+#EXTINF:-1 tvg-name="443" tvg-shift=0  group-title="WEB камеры",Гастелло - Шадрина
+https://video.digibi.ru/translation?id=1903842&guid=92c700800b3e597a7cb1&mode=hls
+#EXTINF:-1 tvg-name="(null)" tvg-shift=0  group-title="WEB камеры",ГДК (фонтан)
+https://video.digibi.ru/translation?id=7911969&guid=befee1a7f63eda3d5f96&mode=hls
+#EXTINF:-1 tvg-name="314" tvg-shift=0  group-title="WEB камеры",Гилева - Толстого
+https://video.digibi.ru/translation?id=615836&guid=ea200b79cfe81f8b9ab8&mode=hls
+#EXTINF:-1 tvg-name="343" tvg-shift=0  group-title="WEB камеры",Гимназия №1
+https://video.digibi.ru/translation?id=1002477&guid=094c81bb82108da3bdf1&mode=hls
+#EXTINF:-1 tvg-name="335" tvg-shift=0  group-title="WEB камеры",Главэлеватор - 2-я Набережная
+https://video.digibi.ru/translation?id=902370&guid=67d5e778ca124e000717&mode=hls
+#EXTINF:-1 tvg-name="474" tvg-shift=0  group-title="WEB камеры",Городской Дворец Культуры
+https://video.digibi.ru/translation?id=2562505&guid=21089499e44574135858&mode=hls
+#EXTINF:-1 tvg-name="(null)" tvg-shift=0  group-title="WEB камеры",Городской лес
+https://video.digibi.ru/translation?id=5498174&guid=54ed971ed7085debf1f4&mode=hls
+#EXTINF:-1 tvg-name="295" tvg-shift=0  group-title="WEB камеры",Городской суд
+https://video.digibi.ru/translation?id=11184&guid=ca1fad7866c9e129ebb5&mode=hls
+#EXTINF:-1 tvg-name="453" tvg-shift=0  group-title="WEB камеры",Горького - Ключевской
+https://video.digibi.ru/translation?id=2048768&guid=7cfb4e4c2cd886070493&mode=hls
+#EXTINF:-1 tvg-name="452" tvg-shift=0  group-title="WEB камеры",Горького - Сосновый
+https://video.digibi.ru/translation?id=2048766&guid=75e51a66b71b0d542e78&mode=hls
+#EXTINF:-1 tvg-name="280" tvg-shift=0  group-title="WEB камеры",Граничная - Льнокомбинат
+https://video.digibi.ru/translation?id=180934&guid=53663534f98f5479c774&mode=hls
+#EXTINF:-1 tvg-name="289" tvg-shift=0  group-title="WEB камеры",Грин центр
+https://video.digibi.ru/translation?id=179642&guid=6c4afedf5c44e100007c&mode=hls
+#EXTINF:-1 tvg-name="432" tvg-shift=0  group-title="WEB камеры",Декабристов - Ломоносова
+https://video.digibi.ru/translation?id=1666843&guid=6e9efe6a796ba4f7a913&mode=hls
+#EXTINF:-1 tvg-name="434" tvg-shift=0  group-title="WEB камеры",Дельфин парковка
+https://video.digibi.ru/translation?id=1666865&guid=6ce4fc9648c67afb2590&mode=hls
+#EXTINF:-1 tvg-name="449" tvg-shift=0  group-title="WEB камеры",Детская (Радищева 2/2)
+https://video.digibi.ru/translation?id=1974894&guid=11e67cf1ae23a27cbcf3&mode=hls
+#EXTINF:-1 tvg-name="217" tvg-shift=0  group-title="WEB камеры",Детская (Стахановская 1)
+https://video.digibi.ru/translation?id=493&guid=a5997fc2c553f5d4bf6f&mode=hls
+#EXTINF:-1 tvg-name="319" tvg-shift=0  group-title="WEB камеры",Детский мир
+https://video.digibi.ru/translation?id=510357&guid=56856f2bd8a9402e9d08&mode=hls
+#EXTINF:-1 tvg-name="543" tvg-shift=0  group-title="WEB камеры",Детский сад №47
+https://video.digibi.ru/translation?id=5223112&guid=7ba9b0ea4bead93699f5&mode=hls
+#EXTINF:-1 tvg-name="" tvg-shift=0  group-title="WEB камеры",Димакс №1
+https://video.digibi.ru/translation?id=12517197&guid=2e1286985bbacdf0997a&mode=hls
+#EXTINF:-1 tvg-name="" tvg-shift=0  group-title="WEB камеры",Димакс №2
+https://video.digibi.ru/translation?id=12517316&guid=7eeaa852b905862d5d39&mode=hls
+#EXTINF:-1 tvg-name="467" tvg-shift=0  group-title="WEB камеры",Докучаева - Прибыткова
+https://video.digibi.ru/translation?id=2376843&guid=370fcb556ca70e4d9e9d&mode=hls
+#EXTINF:-1 tvg-name="423" tvg-shift=0  group-title="WEB камеры",Дом советов ост. (Красноармейская)
+https://video.digibi.ru/translation?id=1598669&guid=6f4ef59ec56bc6e608c2&mode=hls
+#EXTINF:-1 tvg-name="" tvg-shift=0  group-title="WEB камеры",Дубильная 8
+https://video.digibi.ru/translation?id=10184080&guid=a84de01904590006ef32&mode=hls
+#EXTINF:-1 tvg-name="(null)" tvg-shift=0  group-title="WEB камеры",ЗАГС
+https://video.digibi.ru/translation?id=5498224&guid=9cce136e9747d8de8537&mode=hls
+#EXTINF:-1 tvg-name="331" tvg-shift=0  group-title="WEB камеры",Заря СК
+https://video.digibi.ru/translation?id=814337&guid=b3e8f84eeba4c85d924e&mode=hls
+#EXTINF:-1 tvg-name="257" tvg-shift=0  group-title="WEB камеры",Зеленый клин №1
+https://video.digibi.ru/translation?id=2953&guid=8da733afb8c422bd27ce&mode=hls
+#EXTINF:-1 tvg-name="502" tvg-shift=0  group-title="WEB камеры",Зеленый клин №2
+https://video.digibi.ru/translation?id=3731760&guid=87e2beb51794a2603ef6&mode=hls
+#EXTINF:-1 tvg-name="390" tvg-shift=0  group-title="WEB камеры",Иртышская - Социалистическая
+https://video.digibi.ru/translation?id=1378151&guid=e290a43c9b186615dac6&mode=hls
+#EXTINF:-1 tvg-name="450" tvg-shift=0  group-title="WEB камеры",Коммунальный мост 1
+https://video.digibi.ru/translation?id=2030319&guid=4ea512961c312af0555c&mode=hls
+#EXTINF:-1 tvg-name="448" tvg-shift=0  group-title="WEB камеры",Коммунальный мост 2
+https://video.digibi.ru/translation?id=2030331&guid=f96d2e1acdf3b3fec62b&mode=hls
+#EXTINF:-1 tvg-name="447" tvg-shift=0  group-title="WEB камеры",Коммунальный мост 3
+https://video.digibi.ru/translation?id=1931103&guid=5ce6701ee48e398090df&mode=hls
+#EXTINF:-1 tvg-name="446" tvg-shift=0  group-title="WEB камеры",Коммунальный мост 4
+https://video.digibi.ru/translation?id=1931059&guid=c68855ca8819b41cf793&mode=hls
+#EXTINF:-1 tvg-name="292" tvg-shift=0  group-title="WEB камеры",Коммунарский - Ленина
+https://video.digibi.ru/translation?id=188600&guid=9f61ed5f48a5ef4eced8&mode=hls
+#EXTINF:-1 tvg-name="(null)" tvg-shift=0  group-title="WEB камеры",Коммунарский - Ленина (поворотная)
+https://video.digibi.ru/translation?id=5806633&guid=b6bf9a27d402f97aac64&mode=hls
+#EXTINF:-1 tvg-name="(null)" tvg-shift=0  group-title="WEB камеры",Коммунарский - Мухачева
+https://video.digibi.ru/translation?id=10566582&guid=b3857405a9edcbc2179f&mode=hls
+#EXTINF:-1 tvg-name="308" tvg-shift=0  group-title="WEB камеры",Коммунарский - Революции
+https://video.digibi.ru/translation?id=419227&guid=904fc4d9fc2704b262e4&mode=hls
+#EXTINF:-1 tvg-name="(null)" tvg-shift=0  group-title="WEB камеры",Коммунарский - Сенная
+https://video.digibi.ru/translation?id=10566703&guid=673ddb5fc5f5bbd30654&mode=hls
+#EXTINF:-1 tvg-name="485" tvg-shift=0  group-title="WEB камеры",Коммунарский - Советская
+https://video.digibi.ru/translation?id=2958084&guid=51e5d4cd56da415712f0&mode=hls
+#EXTINF:-1 tvg-name="(null)" tvg-shift=0  group-title="WEB камеры",Коммунарский (ТРК Воскресенье ост.)
+https://video.digibi.ru/translation?id=10566674&guid=5e7e1171ee7ccc0c1e29&mode=hls
+#EXTINF:-1 tvg-name="410" tvg-shift=0  group-title="WEB камеры",Короленко - Литейный
+https://video.digibi.ru/translation?id=1527571&guid=150c5a13d631393dd7a7&mode=hls
+#EXTINF:-1 tvg-name="411" tvg-shift=0  group-title="WEB камеры",Короленко - Муромцевский
+https://video.digibi.ru/translation?id=1557206&guid=1e7f8dac2e5306ae561e&mode=hls
+#EXTINF:-1 tvg-name="425" tvg-shift=0  group-title="WEB камеры",Кошевого - Петрова
+https://video.digibi.ru/translation?id=1634022&guid=2316daf6fa86030f0e2f&mode=hls
+#EXTINF:-1 tvg-name="320" tvg-shift=0  group-title="WEB камеры",Краснооктябрьская - Красноярский
+https://video.digibi.ru/translation?id=687724&guid=613b5a38b4ca26b7185b&mode=hls
+#EXTINF:-1 tvg-name="329" tvg-shift=0  group-title="WEB камеры",Кристалл ост.
+https://video.digibi.ru/translation?id=797779&guid=cf9b272f5fc731f6a0fb&mode=hls
+#EXTINF:-1 tvg-name="" tvg-shift=0  group-title="WEB камеры",Кутузова - Матросова
+https://video.digibi.ru/translation?id=11009525&guid=a11af387dc3db6da3957&mode=hls
+#EXTINF:-1 tvg-name="301" tvg-shift=0  group-title="WEB камеры",Ленина - Кожевенный
+https://video.digibi.ru/translation?id=355630&guid=382e019f2610439ffb91&mode=hls
+#EXTINF:-1 tvg-name="321" tvg-shift=0  group-title="WEB камеры",Ленина - Мопровский
+https://video.digibi.ru/translation?id=491413&guid=0e15b8d35d6da34da17a&mode=hls
+#EXTINF:-1 tvg-name="420" tvg-shift=0  group-title="WEB камеры",Ленинградская - Горно-Алтайская
+https://video.digibi.ru/translation?id=1567030&guid=54f82514282c4353213c&mode=hls
+#EXTINF:-1 tvg-name="302" tvg-shift=0  group-title="WEB камеры",Ленинградская - Можайского
+https://video.digibi.ru/translation?id=996981&guid=1f9755909ffa616d973e&mode=hls
+#EXTINF:-1 tvg-name="344" tvg-shift=0  group-title="WEB камеры",Ленинградская - Пугачева
+https://video.digibi.ru/translation?id=1002485&guid=16896da4902f52924801&mode=hls
+#EXTINF:-1 tvg-name="322" tvg-shift=0  group-title="WEB камеры",Ленинградская - Разина
+https://video.digibi.ru/translation?id=629256&guid=1e7a15b8f402137dfb1c&mode=hls
+#EXTINF:-1 tvg-name="337" tvg-shift=0  group-title="WEB камеры",Ленинградская - Чайковского
+https://video.digibi.ru/translation?id=918170&guid=d6e80e61892e392bc119&mode=hls
+#EXTINF:-1 tvg-name="323" tvg-shift=0  group-title="WEB камеры",Лента (левая)
+https://video.digibi.ru/translation?id=676364&guid=70371c8e174fb7f8edf4&mode=hls
+#EXTINF:-1 tvg-name="385" tvg-shift=0  group-title="WEB камеры",Лента (правая)
+https://video.digibi.ru/translation?id=1235239&guid=2f97d75daf34d2d73732&mode=hls
+#EXTINF:-1 tvg-name="421" tvg-shift=0  group-title="WEB камеры",Липового - Горно-Алтайская
+https://video.digibi.ru/translation?id=1598639&guid=4b4e94a1e30400a2c9bb&mode=hls
+#EXTINF:-1 tvg-name="468" tvg-shift=0  group-title="WEB камеры",Литейный
+https://video.digibi.ru/translation?id=2472478&guid=3e1d38e3c7aa1618ac1b&mode=hls
+#EXTINF:-1 tvg-name="477" tvg-shift=0  group-title="WEB камеры",Литейный - Шевченко
+https://video.digibi.ru/translation?id=2796881&guid=ac62f091b6954ab7e206&mode=hls
+#EXTINF:-1 tvg-name="497" tvg-shift=0  group-title="WEB камеры",Ломоносова - Можайского
+https://video.digibi.ru/translation?id=3359727&guid=458db595945107fcb457&mode=hls
+#EXTINF:-1 tvg-name="496" tvg-shift=0  group-title="WEB камеры",Ломоносова - Пугачёва
+https://video.digibi.ru/translation?id=3359680&guid=798ab5f9a7429dd0b625&mode=hls
+#EXTINF:-1 tvg-name="540" tvg-shift=0  group-title="WEB камеры",Ломоносова - Радищева
+https://video.digibi.ru/translation?id=5211144&guid=2e7b292c526c066f999f&mode=hls
+#EXTINF:-1 tvg-name="458" tvg-shift=0  group-title="WEB камеры",Лыжероллерная трасса (Заря)
+https://video.digibi.ru/translation?id=2192185&guid=0f529624ca0e6e2b06c0&mode=hls
+#EXTINF:-1 tvg-name="297" tvg-shift=0  group-title="WEB камеры",Мария-Ра парковка (АБ)
+https://video.digibi.ru/translation?id=363942&guid=9fcf88326e5a94b55f94&mode=hls
+#EXTINF:-1 tvg-name="370" tvg-shift=0  group-title="WEB камеры",Мария-РА (трест)
+https://video.digibi.ru/translation?id=1028797&guid=c4d87ac859580699a402&mode=hls
+#EXTINF:-1 tvg-name="433" tvg-shift=0  group-title="WEB камеры",Мартьянова - Репина
+https://video.digibi.ru/translation?id=1666850&guid=5002f07f360a170063a2&mode=hls
+#EXTINF:-1 tvg-name="424" tvg-shift=0  group-title="WEB камеры",Мартьянова - Ударная
+https://video.digibi.ru/translation?id=1598675&guid=2d44960f9887269debb1&mode=hls
+#EXTINF:-1 tvg-name="279" tvg-shift=0  group-title="WEB камеры",Матросова 47/1
+https://video.digibi.ru/translation?id=130038&guid=f259e7e2d827f1f0168f&mode=hls
+#EXTINF:-1 tvg-name="463" tvg-shift=0  group-title="WEB камеры",Матросова - Пугачева
+https://video.digibi.ru/translation?id=2328131&guid=145acb8601b8e766e05a&mode=hls
+#EXTINF:-1 tvg-name="489" tvg-shift=0  group-title="WEB камеры",Матросова - Разина №1
+https://video.digibi.ru/translation?id=3035937&guid=fc09dde42688bd5119d4&mode=hls
+#EXTINF:-1 tvg-name="(null)" tvg-shift=0  group-title="WEB камеры",Матросова - Разина №2
+https://video.digibi.ru/translation?id=9075433&guid=4aecd93efabdba937948&mode=hls
+#EXTINF:-1 tvg-name="462" tvg-shift=0  group-title="WEB камеры",Матросова - Чайковского
+https://video.digibi.ru/translation?id=2328094&guid=85fc70ba2f98bb89f834&mode=hls
+#EXTINF:-1 tvg-name="530" tvg-shift=0  group-title="WEB камеры",Мать и дитя
+https://video.digibi.ru/translation?id=4441384&guid=9848a23a445082ae3188&mode=hls
+#EXTINF:-1 tvg-name="488" tvg-shift=0  group-title="WEB камеры",Мебельная парковка
+https://video.digibi.ru/translation?id=3035859&guid=5628a7a5de53f24bf34e&mode=hls
+#EXTINF:-1 tvg-name="307" tvg-shift=0  group-title="WEB камеры",Мерлина - Гастелло
+https://video.digibi.ru/translation?id=389845&guid=3c4d29c61d2d9b1a15c1&mode=hls
+#EXTINF:-1 tvg-name="439" tvg-shift=0  group-title="WEB камеры",Мерлина - Трофимова
+https://video.digibi.ru/translation?id=1731880&guid=2c3889ef3cbec91ff679&mode=hls
+#EXTINF:-1 tvg-name="" tvg-shift=0  group-title="WEB камеры",Мерлина (Школа №8)
+https://video.digibi.ru/translation?id=12286079&guid=83dabe9c0fd723d7049e&mode=hls
+#EXTINF:-1 tvg-name="311" tvg-shift=0  group-title="WEB камеры",Митрофанова - Красноармейская
+https://video.digibi.ru/translation?id=482881&guid=7ecbe0e1b720bba295e5&mode=hls
+#EXTINF:-1 tvg-name="" tvg-shift=0  group-title="WEB камеры",Митрофанова - Лесная
+https://video.digibi.ru/translation?id=12560757&guid=e5d8ca8816500e1b990a&mode=hls
+#EXTINF:-1 tvg-name="459" tvg-shift=0  group-title="WEB камеры",Мичуринский - Шевченко
+https://video.digibi.ru/translation?id=2241645&guid=5f397d4e6f1a086e48ca&mode=hls
+#EXTINF:-1 tvg-name="(null)" tvg-shift=0  group-title="WEB камеры",Мишина гора №1
+https://video.digibi.ru/translation?id=7986222&guid=f32ff6e61bdcb29aba3e&mode=hls	
+#EXTINF:-1 tvg-name="(null)" tvg-shift=0  group-title="WEB камеры",Мишина гора №2
+https://video.digibi.ru/translation?id=7986214&guid=56ed27812cadd70cab99&mode=hls
+#EXTINF:-1 tvg-name="306" tvg-shift=0  group-title="WEB камеры",Модный ТЦ
+https://video.digibi.ru/translation?id=388545&guid=7868edc4b59da671ec25&mode=hls
+#EXTINF:-1 tvg-name="" tvg-shift=0  group-title="WEB камеры",Москва бизнес-центр №1
+https://video.digibi.ru/translation?id=12704752&guid=7f7cbbbd718583ad5d30&mode=hls
+#EXTINF:-1 tvg-name="" tvg-shift=0  group-title="WEB камеры",Москва бизнес-центр №2
+https://video.digibi.ru/translation?id=12704902&guid=afac90de47e4640b7989&mode=hls
+#EXTINF:-1 tvg-name="228" tvg-shift=0  group-title="WEB камеры",Музей им. В.В. Бианки
+https://video.digibi.ru/translation?id=497&guid=d6df5c0e8f982f9dca7f&mode=hls
+#EXTINF:-1 tvg-name="466" tvg-shift=0  group-title="WEB камеры",Муромцевский
+https://video.digibi.ru/translation?id=2414662&guid=ddee4dca80b55fe93fde&mode=hls
+#EXTINF:-1 tvg-name="469" tvg-shift=0  group-title="WEB камеры",Мухачева - Кожевенный
+https://video.digibi.ru/translation?id=2474979&guid=794fd5f575bfb1ceb329&mode=hls
+#EXTINF:-1 tvg-name="551" tvg-shift=0  group-title="WEB камеры",Мухачева - Училищный
+https://video.digibi.ru/translation?id=5335552&guid=bf3b96be9f5262f101ed&mode=hls
+#EXTINF:-1 tvg-name="375" tvg-shift=0  group-title="WEB камеры",Мясникова - Партизанская
+https://video.digibi.ru/translation?id=1088020&guid=5d37b5844dd9fa421179&mode=hls
+#EXTINF:-1 tvg-name="389" tvg-shift=0  group-title="WEB камеры",Набережная №1 (п. Молодежный)
+https://video.digibi.ru/translation?id=1321551&guid=314f92eb9eec26a62350&mode=hls
+#EXTINF:-1 tvg-name="538" tvg-shift=0  group-title="WEB камеры",Набережная №2 (п. Молодежный)
+https://video.digibi.ru/translation?id=4586038&guid=7f3a35f79a8f56ddb9ad&mode=hls
+#EXTINF:-1 tvg-name="333" tvg-shift=0  group-title="WEB камеры",Обводной мост
+https://video.digibi.ru/translation?id=868905&guid=de1245c4c64ea85a7fe8&mode=hls
+#EXTINF:-1 tvg-name="440" tvg-shift=0  group-title="WEB камеры",Объединение Восток ост.
+https://video.digibi.ru/translation?id=1787882&guid=8f548dda2b8f2ea29817&mode=hls
+#EXTINF:-1 tvg-name="441" tvg-shift=0  group-title="WEB камеры",Объединение Восток парковка
+https://video.digibi.ru/translation?id=1787885&guid=a8eaabe18733c4707102&mode=hls
+#EXTINF:-1 tvg-name="(null)" tvg-shift=0  group-title="WEB камеры",Памятник воинам, погибшим в Великой Отечественной войне 1941-1945 гг.
+https://video.digibi.ru/translation?id=5905459&guid=341eab4721083a7e92a1&mode=hls
+#EXTINF:-1 tvg-name="(null)" tvg-shift=0  group-title="WEB камеры",Памятник воинам-текстильщикам
+https://video.digibi.ru/translation?id=5806352&guid=3ffa5616bdcd7d192eac&mode=hls
+#EXTINF:-1 tvg-name="529" tvg-shift=0  group-title="WEB камеры",Памятник жертвам радиации
+https://video.digibi.ru/translation?id=4441366&guid=6f3eadfd1fe65655129a&mode=hls
+#EXTINF:-1 tvg-name="374" tvg-shift=0  group-title="WEB камеры",Парк БТИ
+https://video.digibi.ru/translation?id=1084130&guid=d5e78a4d50a33a6d5caa&mode=hls
+#EXTINF:-1 tvg-name="(null)" tvg-shift=0  group-title="WEB камеры",Парк Вали Максимовой №1
+https://video.digibi.ru/translation?id=7773662&guid=80fe07d0c0cefbb1f75d&mode=hls
+#EXTINF:-1 tvg-name="(null)" tvg-shift=0  group-title="WEB камеры",Парк Вали Максимовой №2
+https://video.digibi.ru/translation?id=7773734&guid=1d983b1c1521d3f906a4&mode=hls
+#EXTINF:-1 tvg-name="0" tvg-shift=0  group-title="WEB камеры",Парк Вали Максимовой №3
+https://video.digibi.ru/translation?id=13586206&guid=67a49cbf6ba87e95d12c&mode=hls
+#EXTINF:-1 tvg-name="0" tvg-shift=0  group-title="WEB камеры",Парк Вали Максимовой №4
+https://video.digibi.ru/translation?id=13586820&guid=23f629d83d326c78f8d1&mode=hls
+#EXTINF:-1 tvg-name="304" tvg-shift=0  group-title="WEB камеры",Парк Детства
+https://video.digibi.ru/translation?id=358711&guid=c2735a61fc8b067df0a5&mode=hls
+#EXTINF:-1 tvg-name="(null)" tvg-shift=0  group-title="WEB камеры",Парк "Маленькая страна"
+https://video.digibi.ru/translation?id=9065031&guid=8e462955bc5a09ae7c9d&mode=hls
+#EXTINF:-1 tvg-name="" tvg-shift=0  group-title="WEB камеры",Парковка (Короленко 51)
+https://video.digibi.ru/translation?id=12560808&guid=1bbb224df8bf973a8601&mode=hls
+#EXTINF:-1 tvg-name="(null)" tvg-shift=0  group-title="WEB камеры",Парковка (Пугачёва 21)
+https://video.digibi.ru/translation?id=5780252&guid=7a0bfbdb5a9e6ba415eb&mode=hls
+#EXTINF:-1 tvg-name="388" tvg-shift=0  group-title="WEB камеры",Парк Победы БМП-1
+https://video.digibi.ru/translation?id=1284526&guid=77c55e280061e73c2c9c&mode=hls
+#EXTINF:-1 tvg-name="387" tvg-shift=0  group-title="WEB камеры",Парк Победы Т-72
+https://video.digibi.ru/translation?id=1284499&guid=fbcbb43c6997b8a2c84d&mode=hls
+#EXTINF:-1 tvg-name="66" tvg-shift=0  group-title="WEB камеры",Парк Строителей
+https://video.digibi.ru/translation?id=483&guid=7e7b18a8a42200863e5d&mode=hls
+#EXTINF:-1 tvg-name="(null)" tvg-shift=0  group-title="WEB камеры",Первомайская СОШ №2
+https://video.digibi.ru/translation?id=9130917&guid=9bdfc3c13b6b53ee2938&mode=hls
+#EXTINF:-1 tvg-name="487" tvg-shift=0  group-title="WEB камеры",Петровский бульвар №1
+https://video.digibi.ru/translation?id=2987398&guid=44addd81d5787c02c1d1&mode=hls
+#EXTINF:-1 tvg-name="486" tvg-shift=0  group-title="WEB камеры",Петровский бульвар №2
+https://video.digibi.ru/translation?id=2987273&guid=f5611156912e3c063c19&mode=hls
+#EXTINF:-1 tvg-name="(null)" tvg-shift=0  group-title="WEB камеры",Петровский бульвар (каток)
+https://video.digibi.ru/translation?id=8074485&guid=c2539407f94ad4c8d448&mode=hls
+#EXTINF:-1 tvg-name="(null)" tvg-shift=0  group-title="WEB камеры",Петровский бульвар (около фонтана)
+https://video.digibi.ru/translation?id=5567805&guid=b852cd5ccdd2ac3724f1&mode=hls
+#EXTINF:-1 tvg-name="534" tvg-shift=0  group-title="WEB камеры",Петровский бульвар (сцена) №1
+https://video.digibi.ru/translation?id=4538943&guid=cf3e152489fb77226369&mode=hls
+#EXTINF:-1 tvg-name="535" tvg-shift=0  group-title="WEB камеры",Петровский бульвар (сцена) №2
+https://video.digibi.ru/translation?id=4538963&guid=ab6909ea3e2a1b38cc71&mode=hls
+#EXTINF:-1 tvg-name="(null)" tvg-shift=0  group-title="WEB камеры",Петровский бульвар (фонтан)
+https://video.digibi.ru/translation?id=12373046&guid=1deefcf225dec633a05c&mode=hls
+#EXTINF:-1 tvg-name="" tvg-shift=0  group-title="WEB камеры",Пешеходный переход (Мерлина 10)
+https://video.digibi.ru/translation?id=12286316&guid=885b9a39f08f2d16e1b5&mode=hls
+#EXTINF:-1 tvg-name="" tvg-shift=0  group-title="WEB камеры",Пешеходный переход (ЦУМ)
+https://video.digibi.ru/translation?id=12959183&guid=31c04a6dbfd8898d2a3c&mode=hls
+#EXTINF:-1 tvg-name="442" tvg-shift=0  group-title="WEB камеры",Планетарий "Родина"
+https://video.digibi.ru/translation?id=1844257&guid=ac4e7dbad290544f63d9&mode=hls
+#EXTINF:-1 tvg-name="451" tvg-shift=0  group-title="WEB камеры",Площадь 9 Января
+https://video.digibi.ru/translation?id=2030212&guid=4709da553bd06198331d&mode=hls
+#EXTINF:-1 tvg-name="328" tvg-shift=0  group-title="WEB камеры",Площадь памяти героев ВОВ
+https://video.digibi.ru/translation?id=714580&guid=9ab09688ed63aee2e227&mode=hls
+#EXTINF:-1 tvg-name="" tvg-shift=0  group-title="WEB камеры",Площадь перед Администрацией
+https://video.digibi.ru/translation?id=12959290&guid=527acd57bb36e19d9852&mode=hls
+#EXTINF:-1 tvg-name="392" tvg-shift=0  group-title="WEB камеры",Пляж (зеленый клин)
+https://video.digibi.ru/translation?id=1459275&guid=2d5e1e6dd8964392cfeb&mode=hls
+#EXTINF:-1 tvg-name="177" tvg-shift=0  group-title="WEB камеры",Понтонный мост №1
+https://video.digibi.ru/translation?id=178548&guid=d46267d245a243786377&mode=hls
+#EXTINF:-1 tvg-name="325" tvg-shift=0  group-title="WEB камеры",Понтонный мост №2
+https://video.digibi.ru/translation?id=676975&guid=4caac64e4cd4e5f14536&mode=hls
+#EXTINF:-1 tvg-name="260" tvg-shift=0  group-title="WEB камеры",Привокзальная площадь №1
+https://video.digibi.ru/translation?id=11938&guid=1736d7f74799287cbc04&mode=hls
+#EXTINF:-1 tvg-name="484" tvg-shift=0  group-title="WEB камеры",Привокзальная площадь №2
+https://video.digibi.ru/translation?id=2957980&guid=b807759a9fc7e375f305&mode=hls
+#EXTINF:-1 tvg-name="501" tvg-shift=0  group-title="WEB камеры",Пустырь у реки
+https://video.digibi.ru/translation?id=3548983&guid=168d3e6b7985322fac77&mode=hls
+#EXTINF:-1 tvg-name="(null)" tvg-shift=0  group-title="WEB камеры",Пушки Бийской крепости
+https://video.digibi.ru/translation?id=7909841&guid=536d3b403e55144d0030&mode=hls
+#EXTINF:-1 tvg-name="334" tvg-shift=0  group-title="WEB камеры",Пушкина-15 Гвардейской Кавалерийской Дивизии
+https://video.digibi.ru/translation?id=881838&guid=5b78c61db406dd6b6988&mode=hls
+#EXTINF:-1 tvg-name="305" tvg-shift=0  group-title="WEB камеры",Разина - Липового
+https://video.digibi.ru/translation?id=364250&guid=e9675faf7c5bf319e75c&mode=hls
+#EXTINF:-1 tvg-name="552" tvg-shift=0  group-title="WEB камеры",Разина - Омский
+https://video.digibi.ru/translation?id=5336020&guid=f91305d3963f3b45147b&mode=hls
+#EXTINF:-1 tvg-name="383" tvg-shift=0  group-title="WEB камеры",Революции - Мопровский
+https://video.digibi.ru/translation?id=1182370&guid=29678942173a8f7d1e62&mode=hls
+#EXTINF:-1 tvg-name="163" tvg-shift=0  group-title="WEB камеры",Ривьера ТРЦ №1
+https://video.digibi.ru/translation?id=5&guid=452e70cecbafe495920d&mode=hls
+#EXTINF:-1 tvg-name="336" tvg-shift=0  group-title="WEB камеры",Ривьера ТРЦ №2
+https://video.digibi.ru/translation?id=917284&guid=f09b81f63999863caeda&mode=hls
+#EXTINF:-1 tvg-name="(null)" tvg-shift=0  group-title="WEB камеры",Сенная - Гилева
+https://video.digibi.ru/translation?id=9892013&guid=ced286cc56092ced883c&mode=hls
+#EXTINF:-1 tvg-name="539" tvg-shift=0  group-title="WEB камеры",Сквер им. Михаила Ломоносова
+https://video.digibi.ru/translation?id=4865139&guid=e3d55181b5922abe46e9&mode=hls
+#EXTINF:-1 tvg-name="" tvg-shift=0  group-title="WEB камеры",Советская 199/6
+https://video.digibi.ru/translation?id=9938360&guid=273e31a7642ae89a8e4e&mode=hls
+#EXTINF:-1 tvg-name="" tvg-shift=0  group-title="WEB камеры",Советская 211
+https://video.digibi.ru/translation?id=9931552&guid=a96963886ab201570325&mode=hls
+#EXTINF:-1 tvg-name="545" tvg-shift=0  group-title="WEB камеры",Советская, пешеходный переход 1
+https://video.digibi.ru/translation?id=5223215&guid=9d2c6b592614675dbb22&mode=hls
+#EXTINF:-1 tvg-name="472" tvg-shift=0  group-title="WEB камеры",Советская - Стахановская
+https://video.digibi.ru/translation?id=2502324&guid=5a4dfd6157e6d5e9d530&mode=hls
+#EXTINF:-1 tvg-name="490" tvg-shift=0  group-title="WEB камеры",Социалистическая 38
+https://video.digibi.ru/translation?id=3200610&guid=fdad6e60881bedbe08c3&mode=hls
+#EXTINF:-1 tvg-name="435" tvg-shift=0  group-title="WEB камеры",Социалистическая (АБ)
+https://video.digibi.ru/translation?id=1696173&guid=2a49fe2bd0b699b38c74&mode=hls
+#EXTINF:-1 tvg-name="544" tvg-shift=0  group-title="WEB камеры",Социалистическая - В.Интернационалистов
+https://video.digibi.ru/translation?id=5223160&guid=a7f5546d8d5e07a1014b&mode=hls
+#EXTINF:-1 tvg-name="391" tvg-shift=0  group-title="WEB камеры",Социалистическая (Кирп. завод)
+https://video.digibi.ru/translation?id=1378197&guid=10cd29838120afec5f96&mode=hls
+#EXTINF:-1 tvg-name="547" tvg-shift=0  group-title="WEB камеры",Социалистическая - Кутузова
+https://video.digibi.ru/translation?id=5333688&guid=019b20e220db4f8f626b&mode=hls
+#EXTINF:-1 tvg-name="300" tvg-shift=0  group-title="WEB камеры",Социалистическая - Можайского
+https://video.digibi.ru/translation?id=348492&guid=c710a58231a641930eb2&mode=hls
+#EXTINF:-1 tvg-name="345" tvg-shift=0  group-title="WEB камеры",Социалистическая - Пугачева
+https://video.digibi.ru/translation?id=1002495&guid=3f6d00125d802cbada17&mode=hls
+#EXTINF:-1 tvg-name="(null)" tvg-shift=0  group-title="WEB камеры",Социалистическая - Чайковского
+https://video.digibi.ru/translation?id=5444430&guid=04bbd53233f9a9ed9793&mode=hls
+#EXTINF:-1 tvg-name="294" tvg-shift=0  group-title="WEB камеры",Стадион Бийский лицей
+https://video.digibi.ru/translation?id=291366&guid=070a3f9cc80cc3412bc8&mode=hls
+#EXTINF:-1 tvg-name="(null)" tvg-shift=0  group-title="WEB камеры",Стадион (Гимназия №1)
+https://video.digibi.ru/translation?id=9901953&guid=4bd05d05a8b5904cb820&mode=hls
+#EXTINF:-1 tvg-name="218" tvg-shift=0  group-title="WEB камеры",Стадион "Центральный"
+https://video.digibi.ru/translation?id=495&guid=cae0b5d8a9b35e4b0e4e&mode=hls
+#EXTINF:-1 tvg-name="164" tvg-shift=0  group-title="WEB камеры",Стадион "Юбилейный"
+https://video.digibi.ru/translation?id=106439&guid=d1f01417c1220c2fd823&mode=hls
+#EXTINF:-1 tvg-name="454" tvg-shift=0  group-title="WEB камеры",Стадион Юность
+https://video.digibi.ru/translation?id=21253&guid=d3d13f51ba6100b514f1&mode=hls
+#EXTINF:-1 tvg-name="261" tvg-shift=0  group-title="WEB камеры",Стахановская ост.
+https://video.digibi.ru/translation?id=363946&guid=3dfea2c2cf9932bec24f&mode=hls
+#EXTINF:-1 tvg-name="(null)" tvg-shift=0  group-title="WEB камеры",Стела Войнам Бийчанам
+https://video.digibi.ru/translation?id=5905752&guid=79ab5f092748de15fb3d&mode=hls
+#EXTINF:-1 tvg-name="277" tvg-shift=0  group-title="WEB камеры",Табачная фабрика ост. №1
+https://video.digibi.ru/translation?id=74202&guid=a97bfc864469641845da&mode=hls
+#EXTINF:-1 tvg-name="471" tvg-shift=0  group-title="WEB камеры",Табачная фабрика ост. №2
+https://video.digibi.ru/translation?id=2475050&guid=156e26012d7e832b7ccc&mode=hls
+#EXTINF:-1 tvg-name="426" tvg-shift=0  group-title="WEB камеры",Трофимова - Кошевого
+https://video.digibi.ru/translation?id=1634071&guid=fb924d8bd5c14efe1f3a&mode=hls
+#EXTINF:-1 tvg-name="384" tvg-shift=0  group-title="WEB камеры",Трофимова - Севастопольская
+https://video.digibi.ru/translation?id=1200250&guid=ae8440e911f544af125c&mode=hls
+#EXTINF:-1 tvg-name="373" tvg-shift=0  group-title="WEB камеры",Трофимова - Ударная
+https://video.digibi.ru/translation?id=1068171&guid=038130a2ddf7038124cd&mode=hls
+#EXTINF:-1 tvg-name="412" tvg-shift=0  group-title="WEB камеры",Ударная - Ленинградская
+https://video.digibi.ru/translation?id=1563999&guid=db4a4fda7d868e0f11e2&mode=hls
+#EXTINF:-1 tvg-name="537" tvg-shift=0  group-title="WEB камеры",Ударная - Липового
+https://video.digibi.ru/translation?id=4549001&guid=e038bde2ceb107060bcc&mode=hls
+#EXTINF:-1 tvg-name="546" tvg-shift=0  group-title="WEB камеры",Ударная - Омский
+https://video.digibi.ru/translation?id=5333663&guid=b588556dec88340de34a&mode=hls
+#EXTINF:-1 tvg-name="274" tvg-shift=0  group-title="WEB камеры",Ударная - Социалистическая
+https://video.digibi.ru/translation?id=19460&guid=201b9b030ed27b71e15b&mode=hls
+#EXTINF:-1 tvg-name="178" tvg-shift=0  group-title="WEB камеры",Факел
+https://video.digibi.ru/translation?id=4895901&guid=0bf46ee178935bd00faf&mode=hls
+#EXTINF:-1 tvg-name="275" tvg-shift=0  group-title="WEB камеры",Футбольная (3 шк.)
+https://video.digibi.ru/translation?id=2121916&guid=9cb93394596e403f210c&mode=hls
+#EXTINF:-1 tvg-name="296" tvg-shift=0  group-title="WEB камеры",Хоккейная Бийский лицей
+https://video.digibi.ru/translation?id=747833&guid=941160d961d57bd8aeb4&mode=hls
+#EXTINF:-1 tvg-name="326" tvg-shift=0  group-title="WEB камеры",Хоккейная (Ленина 262)
+https://video.digibi.ru/translation?id=201962&guid=2b4939cb9ede5c4831c8&mode=hls
+#EXTINF:-1 tvg-name="480" tvg-shift=0  group-title="WEB камеры",Хоккейная (Льнокомбинат)
+https://video.digibi.ru/translation?id=2936197&guid=c3607ce7efe4ff621fca&mode=hls
+#EXTINF:-1 tvg-name="(null)" tvg-shift=0  group-title="WEB камеры",Центральный городской пляж
+https://video.digibi.ru/translation?id=10351152&guid=8c03021d403de939b9fe&mode=hls
+#EXTINF:-1 tvg-name="208" tvg-shift=0  group-title="WEB камеры",Церковка гора
+https://video.digibi.ru/translation?id=111452&guid=1da81c9482a53f2713de&mode=hls
+#EXTINF:-1 tvg-name="293" tvg-shift=0  group-title="WEB камеры",ЦУМ
+https://video.digibi.ru/translation?id=3300394&guid=edefb72b504a839fa211&mode=hls
+#EXTINF:-1 tvg-name="461" tvg-shift=0  group-title="WEB камеры",Чайковского - Ломоносова
+https://video.digibi.ru/translation?id=2328071&guid=420eb757e515c4822752&mode=hls
+#EXTINF:-1 tvg-name="465" tvg-shift=0  group-title="WEB камеры",Шевченко - Складской
+https://video.digibi.ru/translation?id=2414675&guid=c8af2c10d34f54e574b1&mode=hls
+#EXTINF:-1 tvg-name="409" tvg-shift=0  group-title="WEB камеры",Школа №1
+https://video.digibi.ru/translation?id=1527498&guid=90b44d593ac3e1129411&mode=hls
+#EXTINF:-1 tvg-name="" tvg-shift=0  group-title="WEB камеры",Школа №17
+https://video.digibi.ru/translation?id=12517078&guid=b65e6c9105c0a1d10a9a&mode=hls
+#EXTINF:-1 tvg-name="499" tvg-shift=0  group-title="WEB камеры",Школа №18
+https://video.digibi.ru/translation?id=3387624&guid=46d821d79041b6e050c8&mode=hls
+#EXTINF:-1 tvg-name="460" tvg-shift=0  group-title="WEB камеры",Школа №20
+https://video.digibi.ru/translation?id=2241676&guid=c9874a3114d2198633a5&mode=hls
+#EXTINF:-1 tvg-name="498" tvg-shift=0  group-title="WEB камеры",Школа №34
+https://video.digibi.ru/translation?id=3387568&guid=e7cb8fba12b845444b27&mode=hls
+#EXTINF:-1 tvg-name="444" tvg-shift=0  group-title="WEB камеры",Школа №8
+https://video.digibi.ru/translation?id=1903893&guid=c710db4c4b3e3ddd3649&mode=hls
+#EXTINF:-1 tvg-name="483" tvg-shift=0  group-title="WEB камеры",Школа ВОС ост.
+https://video.digibi.ru/translation?id=2957760&guid=6f2352e66bba29ac49b2&mode=hls
