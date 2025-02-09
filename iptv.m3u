@@ -11,9 +11,9 @@ http://dmi3y-tv.ru/hls/zabava/region/BIYSK/CH_MATCHTV.m3u8
 #EXTINF:-1 catchup="default" group-title="Местные", НТВ (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd116.iptv2022.com/p/K9IEsgIz8R9qUZ7PKGrgqg,1739048403/streaming/ntvplus4/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 catchup="default" group-title="Местные", Пятый канал (+4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd116.iptv2022.com/p/SB579SSddy8cLAKNie4W8w,1739048404/streaming/5kanalplus4/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="Местные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="5kanal-ru-pl4",Пятый канал (+4)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8
 #EXTINF:-1 catchup="default" group-title="Местные", Россия Культура (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd116.iptv2022.com/p/2AtTdW0xnof_AHGEqgddTA,1739048406/streaming/rossiakplus4/324/1/tracks-v5a1/mono.m3u8
